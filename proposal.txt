@@ -1,0 +1,31 @@
+Significant Program Proposal
+Emily Castillo
+
+(This is a proposal. All proposals are written with our best knowledge
+at the beginning of a project. As we progress from the beginning to the
+end of a project, we gain more knowledge, and some of the ideas we
+proposed change. This is part of completing any project and is fine.
+However, we still must write a proposal so that our teachers or
+supervisors know what we intend to do. Please answer each of the
+following questions to the best of your knowledge.)
+
+1. What is the title of your program?
+Alarm App.
+
+2. What real world problem will your program address or help to solve?
+The alarm app will help me to remember to take a break when I am studying in the computer, when its time to cook, or when I need to join a meeting.
+
+3. What will you learn from developing this program?
+This program will help me to practice functions, its organization and purpose. Also, I will learn how to use a graphical user interface.
+
+4. What Python modules will your program use? (Some examples are: csv,
+datetime, functools, matplotlib, math, pandas, pytest, random, requests,
+and tkinter.)
+I will use the tkinter and datetime module.
+
+5. Will you separate your Python program into functions that each
+perform a single task?
+Yes. Each function will perform a single task like creating the graphics, sounds, inputs, procedure, etc.
+
+6. Will you write test functions to test many of your program functions?
+Yes, I will test that each function works well.

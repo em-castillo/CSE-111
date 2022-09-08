@@ -1,0 +1,44 @@
+Please take a few minutes to reflect on your experience in CSE 111 and
+think about the challenges, successes, and all that you've learned
+along the way.
+
+
+Now, please respond thoroughly (1 - 2 paragraphs for each question) to
+the following questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+This semester, I learned and practiced the use of functions. In each 
+assignment, I learned new benefits of using functions. One experience 
+where I saw the power of functions was on the heart rate graphic user 
+interface. It had two principal functions, main and populate main window. 
+Both did their respective work, like creating the main window and making 
+labels, entries, and buttons. I realized functions can have other functions
+inside of them. In this example, one did all the calculations, and the other 
+cleared the input boxes from the labels created in the populate main window
+function. Separating the code into functions makes it easier to understand
+the program, reuse it, and avoid duplication.
+
+
+2. In your judgment, what is the value of test functions?
+Test functions are helpful while writing a program. They check that each 
+function in a program works well and returns the right value or answer. 
+Test functions are important for handling errors before they occur, so at 
+the moment of operation, the program does not stop working and collapse. 
+They check for possible inputs, answers, or documents. In simple words, 
+the value of test functions is to check that a function works properly and 
+its behavior is correct.
+
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+The process I follow for troubleshooting is pretty much the same on any 
+program. If something is not working as expected, I read the terminal and 
+the errors that show. Then, if I do not know how to fix it, I check on the 
+internet. I also use the debugger tool to check how the code is working to see 
+if I wrote something wrong or if I need to type more code. After this class, 
+I think I can do two things to improve the process for troubleshooting. 
+First, handle errors and raise them in my code, so it shows me what type of
+error is. Second, write a test file at the same time I write a program, so
+I know what to expect and identify if it is getting the correct information.
+

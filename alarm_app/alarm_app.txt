@@ -1,0 +1,19 @@
+Alarm App Test Procedure
+
+Once the Python program runs, a 450x300 Tkinter window will appear. It will display a clock image, 
+labels and entries for time and a message, and a button at the bottom that says 'Set Alarm'.
+The user should enter the time in 24 hours format. If the user enters time in a 12-hour format, 
+the alarm will recognize it as morning time. If the user does not enter a time, a message box will 
+appear asking for input.
+Then the user should enter the message it will need to remember. If the user does not enter a message, 
+the app will display 'Alert' when the time is up.
+After the time and message are ready, clicking on the button will set the alarm. A message box will 
+appear displaying the alarm time. Clicking 'OK' will close the window.
+When is the time, another message box will show the message entered before, remembering the user what 
+he needs to do. It will also play a notification sound. Click 'OK' to close it.
+
+main() = calls create_window()
+create_window() =  creates Tkinter window.
+set_alarm() = sets and displays time entered by user.
+alarm() = determines when current time is the same than alarm time. If so, will display the message and sound.
+sound() =  plays alarm sound notification with a message box.
